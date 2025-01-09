@@ -29,7 +29,7 @@ I'm **Rahul Gonela**, currently pursuing my Bachelor of Technology in Computer S
 - 😊 "I'm a Passionate web developer eager to learn, grow, and contribute to innovative projects while enhancing skills in the tech field."
 - 💻 I actively contribute to open-source projects and believe in the power of collaborative coding.
 - 🌱 I'm dedicated to pushing my work regularly to maintain an organized coding environment and continuously improve my skills.
-
+- 🤞  
 Outside of coding, I enjoy exploring new technologies, reading tech blogs.
 
 <br>
@@ -56,7 +56,9 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs.
 - **Secondary (Class 10th)**
   - Board: SSC
   - Percentage: 95%
-
+    
+- ** Nxtwave Disruptive Technologies**
+ Industry Ready Certification in Full-stack Development (sept 2021- ongoing)
 <br>
 
 <img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" />
