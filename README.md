@@ -58,7 +58,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs.
   - Percentage: 95%
     
 - **Nxtwave Disruptive Technologies**
- Industry Ready Certification in Full-stack Development (sept 2021- ongoing)
+   -Industry Ready Certification in Full-stack Development (sept 2021- ongoing)
 <br>
 
 <img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" />
