@@ -11,8 +11,8 @@
 
 </div>
 
-<img src="./Assets/banner.png" alt="banner" />
 <img src="./Assets/nxtwave.png" alt="nxtwave" />
+<img src="./Assets/banner.png" alt="banner" />
 
 <br>
 
