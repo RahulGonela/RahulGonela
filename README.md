@@ -107,8 +107,8 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs.
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Nxt-Assess App | [view](https://nxtassessr.ccbp.tech/login) | [repo](https://github.com/RahulGonela/Nxt-Assess) | `HTML` `CSS` `Node.js` `JavaScript` `React` `Postman` | 
-| Jobby-App | [view](https://grahul.ccbp.tech/) | [repo](https://github.com/RahulGonela/Jobby-App) | `HTML` `CSS` `JavaScript`| 
+| Nxt-Assess App | [view](https://nxtassessr.ccbp.tech/login) | [repo](https://github.com/RahulGonela/Nxt-Assess) | `HTML` `CSS` `Node.js` `JavaScript` `React.js` | 
+| Jobby-App | [view](https://grahul.ccbp.tech/) | [repo](https://github.com/RahulGonela/Jobby-App) | `HTML` `CSS` `JavaScript` `React.js` `Node.js`| 
 | Portfolio | - | [repo](https://github.com/RahulGonela/RahulGonela.github.io) | `HTML` `CSS` `Node.js` `React` | 
 
 <br>
