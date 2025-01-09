@@ -126,7 +126,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 <!-- <img src="./Assets/facebook-anime.gif" alt="facebook anime gif" width="100"> -->
 [<img src="./Assets/twitter-anime.gif" alt="twitter anime gif" width="100">](https://x.com/RahulGonela)
 [<img src="./Assets/linkedin-anime.gif" alt="linkedin anime gif" width="100">](https://www.linkedin.com/in/rahulgonela/)
-<!--[<img src="./Assets/discord-anime.gif" alt="discord anime gif" width="100">](https://www.discord.com/users/699877633017511957/) -->
+<!--<img src="./Assets/discord-anime.gif" alt="discord anime gif" width="100"> -->
 [<img src="./Assets/instagram-anime.gif" alt="instagram anime gif" width="100">](https://www.instagram.com/g.rahul02/)
 [<img src="./Assets/email_png.png" width="110">](mailto:gonelarahulv10@gmail.com)
 <!-- <img src="./Assets/whatsapp-anime.gif" alt="whatsapp anime gif" width="100"> -->
