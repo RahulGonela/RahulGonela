@@ -57,7 +57,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs.
   - Board: SSC
   - Percentage: 95%
     
-- ** Nxtwave Disruptive Technologies**
+- **Nxtwave Disruptive Technologies**
  Industry Ready Certification in Full-stack Development (sept 2021- ongoing)
 <br>
 
