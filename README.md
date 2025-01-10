@@ -40,7 +40,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs.
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Education ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
+<!--
 <img src="./Assets/typing-anime.gif" alt="typing gif" width="30">
 
 <img align="right" src="./Assets/programmer-coding.gif" alt="programmer coding gif" width="400">
@@ -62,7 +62,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs.
    -Industry Ready Certification in Full-stack Development (sept 2021- ongoing)
 <br>
  --->
-<img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" />
+<!-- <img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" /> -->
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Skills -------------------------------------------------------------------------------------------------------------------------------------------- -->
