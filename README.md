@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![Twitter URL](https://img.shields.io/twitter/follow/RahulGonela_)](https://x.com/intent/follow?screen_name=RahulGonela_)
+[![Twitter URL](https://img.shields.io/twitter/follow/RahulGonela)](https://x.com/intent/follow?screen_name=RahulGonela)
 
 # <img src="./Assets/celebrating-anime.png" width="50px" /> &nbsp; Rahul Gonela &nbsp; <img src="./Assets/celebrating-anime.png" width="50px" />
 
