@@ -41,27 +41,27 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs.
 <!--- -- Education ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Education <img src="./Assets/typing-anime.gif" alt="typing gif" width="30">
+<img src="./Assets/typing-anime.gif" alt="typing gif" width="30">
 
 <img align="right" src="./Assets/programmer-coding.gif" alt="programmer coding gif" width="400">
-
+<!--
 - **Bachelor of Technology in Computer Science and Engineering (AI&ML)**
   - [SR University](https://sru.edu.in/)
-  - Currently pursuing
-
+  - Currently pursuing -->
+<!--
 - **Senior Secondary (Class 12th)**
   - MPC
   - Board: TSBIE
-  - Percentage: 93%
-
+  - Percentage: 93% -->
+<!--
 - **Secondary (Class 10th)**
   - Board: SSC
   - Percentage: 95%
-    
+ <!--   
 - **Nxtwave Disruptive Technologies**
    -Industry Ready Certification in Full-stack Development (sept 2021- ongoing)
 <br>
-
+ --->
 <img src="./Assets/gradient-line.gif" alt="gradient line" width="1920" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
