@@ -163,7 +163,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 <div >
     <a align="center">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulGonela&layout=compact&langs_count=8&border_color=808080&card_width=400" />
+      <img height="200" src="[https://github-readme-stats.vercel.app/api/top-langs?username=RahulGonela&layout=compact&langs_count=8&border_color=808080&card_width=400](https://github-readme-streak-stats.herokuapp.com/?user=RahulGonela&theme=dark&hide_border=false)" />
     </a>
 </div>
 
