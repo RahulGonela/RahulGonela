@@ -147,7 +147,6 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ## Statistics <img src="./Assets/target-anime.gif" alt="target anime gif" width="30">
 
-<# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RahulGonela&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RahulGonela&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulGonela&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
